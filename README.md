@@ -1,4 +1,5 @@
-<svg width="440" height="280" viewBox="0 0 440 280" xmlns="http://www.w3.org/2000/svg">
+<p align="center">
+  <svg width="440" height="280" viewBox="0 0 440 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="neoBG" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -68,3 +69,5 @@
     GITHUB
   </text>
 </svg>
+
+</p
